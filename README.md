@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on Simple Calculator
+- 🌱 I’m currently learning GUIs from Codemy.com
+- 🤔 I’m looking for help with future employment
+
 <!--
 **kyawminkhant/kyawminkhant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
