@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+My name is Kyaw Min Khant also known as Jasper and I am a student at Brunel University of London, taking BSc (Hons) Computer Science. My dream is to become software engineer one day and the reasoning for this path is my enjoyment in coding and getting my mind under stress.
+
 - 🔭 I’m currently working on Simple Calculator
 - 🌱 I’m currently learning GUIs from Codemy.com
 - 🤔 I’m looking for help with future employment
