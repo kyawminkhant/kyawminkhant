@@ -1,6 +1,6 @@
 # Kyaw Min Khant (Jasper)
 
-Computer Science student at Brunel University London, focused on backend engineering, databases, and reliable software design.
+Computer Science student at Brunel University of London, focused on backend engineering, databases, and reliable software design.
 
 ## Technical focus
 
