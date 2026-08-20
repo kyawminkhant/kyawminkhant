@@ -1,22 +1,57 @@
-## Hi there 👋
+# Hi there 👋
 
-My name is Kyaw Min Khant also known as Jasper and I am a student at Brunel University of London, taking BSc (Hons) Computer Science. My dream is to become software engineer one day and the reasoning for this path is my enjoyment in coding and getting my mind under stress.
+I'm **Kyaw Min Khant**, also known as **Jasper** — a **BSc (Hons) Computer Science student at Brunel University of London** and an aspiring **Backend Software Engineer**.
 
-- 🔭 I’m currently working on a small game
-- 🌱 I’m currently learning GUIs from Codemy.com
-- 🤔 I’m looking for help with future employment
+I enjoy coding, solving challenging problems, and understanding how software works behind the scenes. My long-term goal is to build reliable backend systems while continuing to explore my interest in **game development**.
 
-<!--
-**kyawminkhant/kyawminkhant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Tech Stack
 
-Here are some ideas to get you started:
+**Languages:**  
+Java • Python • SQL • HTML • CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tools & Technologies:**  
+JavaFX • FXML • Maven • SQLite • JUnit • Git • GitHub
+
+### 🚀 What I'm Working On
+
+- 🔭 Currently developing a **small game**
+- 🌱 Currently learning **GUI development** through Codemy.com
+- 🗄️ Expanding my knowledge of **backend development, databases, and software architecture**
+- 🎮 Exploring **game development**
+- 💼 Interested in **future internships, placements, and software engineering opportunities**
+
+### 🏆 Achievement
+
+- 🥇 **Highest Merit Award — Brunel Pathway College (2026)**  
+  Awarded for achieving the **highest grades across the college**.
+
+### 📌 Featured Projects
+
+- 🎮 **[Memory Flip Game](https://github.com/kyawminkhant/memory_flip_game)**  
+  A game project built to explore gameplay logic and interactive programming.
+
+- 🍱 **[Food-Based E-Commerce Application](https://github.com/kyawminkhant/product-component-food-based-ecommerce-)**  
+  A Java/JavaFX application using **SQLite, Maven, FXML, CSS, Git, and JUnit**, focused on building a functional GUI-based e-commerce system.
+
+### 🎯 Career Goals
+
+I'm working towards becoming a **Backend Software Engineer**, with a particular interest in:
+
+- Backend systems
+- Database design and management
+- Software architecture
+- Application development
+- Problem solving
+- Game development
+
+I'm always looking to **learn, build, collaborate, and take on new challenges**.
+
+### 📫 Connect With Me
+
+- 💼 LinkedIn: *Coming soon*
+- 📧 Email: *Add your professional email here*
+- 🐙 GitHub: [@kyawminkhant](https://github.com/kyawminkhant)
+
+---
+
+> **Build. Break. Learn. Improve.**
