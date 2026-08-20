@@ -1,56 +1,31 @@
-# Hi there 👋
+# Kyaw Min Khant (Jasper)
 
-I'm **Kyaw Min Khant**, also known as **Jasper** — a **BSc (Hons) Computer Science student at Brunel University of London** and an aspiring **Backend Software Engineer**.
+Computer Science student at Brunel University London, focused on backend engineering, databases, and reliable software design.
 
-I enjoy coding, solving challenging problems, and understanding how software works behind the scenes. My long-term goal is to build reliable backend systems while continuing to explore my interest in **game development**.
+## Technical focus
 
-### 💻 Tech Stack
+- **Languages:** Java, Python, SQL, HTML, CSS
+- **Tools:** JavaFX, FXML, Maven, SQLite, JUnit, Git, GitHub
+- **Interests:** backend systems, database design, software architecture, and game development
 
-**Languages:**  
-Java • Python • SQL • HTML • CSS
+## Selected projects
 
-**Tools & Technologies:**  
-JavaFX • FXML • Maven • SQLite • JUnit • Git • GitHub
+- [LOOP Group Project](https://github.com/kyawminkhant/loop-gp-A) — integrated Java/JavaFX food-ordering platform with seven modules sharing an SQLite database.
+- [Food-Based E-Commerce Application](https://github.com/kyawminkhant/loop-product-management) — product-catalogue and seller-management component built with JavaFX, Maven, FXML, CSS, and SQLite.
+- [Bit By Bit](https://github.com/kyawminkhant/bit-by-bit) — Tkinter learning tool for binary, decimal, and hexadecimal conversion and arithmetic.
+- [Memory Flip Game](https://github.com/kyawminkhant/memory_flip_game) — Python/Tkinter desktop game with sound effects and a persistent local leaderboard.
 
-### 🚀 What I'm Working On
+## Currently developing
 
-- 🔭 Currently developing **ALICE**, a self-learning companion Artificial Intelligence
-- 🌱 Currently learning **Movement Reading**
-- 🗄️ Expanding my knowledge of **backend development, databases, and software architecture**
-- 🎮 Exploring **game development**
-- 💼 Interested in **future internships, placements, and software engineering opportunities**
+ALICE, a self-learning companion AI project, while continuing to strengthen my backend, database, and software-engineering skills.
 
-### 🏆 Achievement
+## Achievement
 
-- 🥇 **Highest Merit Award — Brunel Pathway College (2026)**  
-  Awarded for achieving the **highest grades across the college**.
+**Highest Merit Award — Brunel Pathway College (2026)** for the highest grades across the college.
 
-### 📌 Featured Projects
+## Contact
 
-- 🎮 **[Memory Flip Game](https://github.com/kyawminkhant/memory_flip_game)**  
-  A game project built to explore gameplay logic and interactive programming.
+- Email: [minkhantk317@gmail.com](mailto:minkhantk317@gmail.com)
+- GitHub: [@kyawminkhant](https://github.com/kyawminkhant)
 
-- 🍱 **[Food-Based E-Commerce Application](https://github.com/kyawminkhant/product-component-food-based-ecommerce-)**  
-  A Java/JavaFX application using **SQLite, Maven, FXML, CSS, Git, and JUnit**, focused on building a functional GUI-based e-commerce system.
-
-### 🎯 Career Goals
-
-I'm working towards becoming a **Backend Software Engineer**, with a particular interest in:
-
-- Backend systems
-- Database design and management
-- Software architecture
-- Application development
-- Problem solving
-- Game development
-
-I'm always looking to **learn, build, collaborate, and take on new challenges**.
-
-### 📫 Connect With Me
-
-- 📧 Email: minkhantk317@gmail.com
-- 🐙 GitHub: [@kyawminkhant](https://github.com/kyawminkhant)
-
----
-
-> **Build. Break. Learn. Improve.**
+> Build. Break. Learn. Improve.
