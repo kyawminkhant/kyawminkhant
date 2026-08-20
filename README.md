@@ -119,15 +119,6 @@ Awarded for achieving the **highest grades across the college**.
 
 ---
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kyawminkhant&show_icons=true&theme=tokyonight&hide_border=true" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyawminkhant&layout=compact&theme=tokyonight&hide_border=true" height="165">
-</p>
-
----
-
 ## 🎯 Career Direction
 
 I'm working towards becoming a **Backend Software Engineer**, with a particular interest in:
