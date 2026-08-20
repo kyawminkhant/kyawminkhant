@@ -48,7 +48,7 @@ I'm always looking to **learn, build, collaborate, and take on new challenges**.
 
 ### 📫 Connect With Me
 
-- 📧 Email: (minkhantk317@gmail.com)
+- 📧 Email: minkhantk317@gmail.com
 - 🐙 GitHub: [@kyawminkhant](https://github.com/kyawminkhant)
 
 ---
