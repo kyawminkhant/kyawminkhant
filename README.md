@@ -54,3 +54,10 @@ I'm always looking to **learn, build, collaborate, and take on new challenges**.
 ---
 
 > **Build. Break. Learn. Improve.**
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kyawminkhant&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyawminkhant&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
