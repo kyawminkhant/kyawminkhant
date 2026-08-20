@@ -14,8 +14,8 @@ JavaFX • FXML • Maven • SQLite • JUnit • Git • GitHub
 
 ### 🚀 What I'm Working On
 
-- 🔭 Currently developing a **small game**
-- 🌱 Currently learning **GUI development** through Codemy.com
+- 🔭 Currently developing **ALICE**, a self-learning companion Artificial Intelligence
+- 🌱 Currently learning **Movement Reading**
 - 🗄️ Expanding my knowledge of **backend development, databases, and software architecture**
 - 🎮 Exploring **game development**
 - 💼 Interested in **future internships, placements, and software engineering opportunities**
